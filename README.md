@@ -10,7 +10,7 @@ A script to draw a line.
 
 ### Example
 
-```
+```console
 (base) user@host:~$ python endless_line.py 
  \
   \
